@@ -6,3 +6,5 @@ This repository contains sample code that is supplied with the book.
 
 Some parts are just theory, and some parts will have sections with theory and sample code.
 The book is intended to be on PHP language, but you can find all concrete examples on OOP PHP and Design Pattern.
+
+Work in Progress!
