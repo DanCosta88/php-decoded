@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Creational\Singleton\Sample;
+namespace DesignPattern\Creational\Singleton\Sample;
 
 
 class Config {
