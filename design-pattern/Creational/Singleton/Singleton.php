@@ -25,7 +25,7 @@ class Singleton {
 
         if (self::$_instance == NULL) {
 
-            self::$_instance = new Singleton();
+            self::$_instance = new static();
 
         }
 
